@@ -1,0 +1,58 @@
+[
+  {
+    "partnerId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "events": [
+      {
+        "id": "aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee",
+        "price": 34.67,
+        "date": "2026-01-12",
+        "description": "Evento cultural nocturno en el centro histórico"
+      },
+      {
+        "id": "ffffffff-1111-2222-3333-444444444444",
+        "price": 0.00,
+        "date": "2026-01-20",
+        "description": "Evento gratuito para huéspedes del hotel"
+      }
+    ]
+  },
+  {
+    "partnerId": "11111111-2222-3333-4444-555555555555",
+    "events": [
+      {
+        "id": "99999999-8888-7777-6666-555555555555",
+        "price": 15.00,
+        "date": "2026-02-05",
+        "description": "Degustación gastronómica con productos locales"
+      }
+    ]
+  },
+  {
+    "partnerId": "22222222-3333-4444-5555-666666666666",
+    "events": [
+      {
+        "id": "aaaaaaaa-bbbb-cccc-dddd-999999999999",
+        "price": 12.50,
+        "date": "2026-03-15",
+        "description": "Taller de chocolate para niños y adultos"
+      },
+      {
+        "id": "bbbbbbbb-cccc-dddd-eeee-111111111111",
+        "price": 20.00,
+        "date": "2026-03-20",
+        "description": "Cata de chocolates premium ecuatorianos"
+      }
+    ]
+  },
+  {
+    "partnerId": "33333333-4444-5555-6666-777777777777",
+    "events": [
+      {
+        "id": "cccccccc-dddd-eeee-ffff-222222222222",
+        "price": 30.00,
+        "date": "2026-04-01",
+        "description": "City tour con guía bilingüe por el centro histórico"
+      }
+    ]
+  }
+]

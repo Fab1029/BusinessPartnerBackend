@@ -1,0 +1,62 @@
+[
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "name": "Hotel Andes Plaza",
+    "category": "HOTEL",
+    "description": "Hotel ubicado en el centro histórico con servicios premium",
+    "contact_info": {
+      "phone": "+593999999999",
+      "email": "contacto@andesplaza.com",
+      "website": "https://andesplaza.com"
+    },
+    "location": {
+      "latitude": -0.180653,
+      "longitude": -78.467834
+    }
+  },
+  {
+    "id": "11111111-2222-3333-4444-555555555555",
+    "name": "Restaurante La Casona",
+    "category": "RESTAURANT",
+    "description": "Restaurante de comida típica ecuatoriana",
+    "contact_info": {
+      "phone": "+593988888888",
+      "email": "info@lacasona.ec",
+      "website": "https://lacasona.ec"
+    },
+    "location": {
+      "latitude": -2.900128,
+      "longitude": -79.005896
+    }
+  },
+  {
+    "id": "22222222-3333-4444-5555-666666666666",
+    "name": "Museo del Chocolate",
+    "category": "ATTRACTION",
+    "description": "Museo interactivo dedicado al cacao y chocolate ecuatoriano",
+    "contact_info": {
+      "phone": "+593977777777",
+      "email": "info@museochocolate.ec",
+      "website": "https://museochocolate.ec"
+    },
+    "location": {
+      "latitude": -2.183333,
+      "longitude": -79.883333
+    }
+  },
+  {
+    "id": "33333333-4444-5555-6666-777777777777",
+    "name": "City Tour Quito",
+    "category": "ACTIVITY",
+    "description": "Recorrido guiado por los principales atractivos históricos de Quito",
+    "contact_info": {
+      "phone": "+593966666666",
+      "email": "contact@citytourquito.com",
+      "website": "https://citytourquito.com"
+    },
+    "location": {
+      "latitude": -0.180653,
+      "longitude": -78.467834
+    }
+  }
+]
