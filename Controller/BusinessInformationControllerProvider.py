@@ -5,14 +5,14 @@ from fastapi import APIRouter
 from Model.Event import Event
 from Model.EventsRequest import EventsRequest
 from Model.PartnerProfile import PartnerProfile
-from Service.BusinessInformationService import BusinessInformationService
+from Service.BusinessInformationServiceProvider import BusinessInformationServiceProvider
 
 router = APIRouter(
-    prefix="/v1/business",
+    prefix="/api/v1/business",
     tags=["Business Information Provider"]
 )
 
-service = BusinessInformationService()
+service = BusinessInformationServiceProvider()
 
 @router.get(
     "/information/{partner_id}",

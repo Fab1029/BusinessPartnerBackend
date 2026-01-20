@@ -1,7 +1,7 @@
 import uvicorn
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from Controller.BusinessInformationController import router as business_router
+from Controller.BusinessInformationControllerProvider import router as business_router
 
 app = FastAPI(
     title="Business Partner",

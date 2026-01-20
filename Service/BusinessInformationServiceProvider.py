@@ -1,7 +1,7 @@
 from uuid import UUID
 from fastapi import HTTPException, status
 from Model.EventsRequest import EventsRequest
-from Repository.BusinessInformationRepository import BusinessInformationRepository
+from Repository.BusinessInformationRepositoryProvider import BusinessInformationRepositoryProvider
 
 
 class BusinessInformationService:
